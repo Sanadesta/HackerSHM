@@ -8,8 +8,8 @@ pkg install nano
 
 pkg install git
 
-git clone https://github.com/sadamshr3be/Aliens-fb​ 
+استنساخ بوابة  https://github.com/Sanadesta/HackerSHM.git ​ 
 
-cd Aliens-fb
+cd الأجانب- fb
 امر تشغيل الادة
  python2 Aliens-fb.py
